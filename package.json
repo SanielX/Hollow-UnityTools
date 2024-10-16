@@ -1,0 +1,17 @@
+{
+  "name": "com.alex-hollow.unity-tools",
+  "version": "1.0.0",
+  "displayName": "Hollow;Tools",
+  "description": "Collection of general purpose classes for unity engine",
+  "unity": "2022.3",
+  "author": {
+    "name": "Alex Hollow",
+    "email": "alex.k.hollow@gmail.com"
+  },
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.collections": "2.1.4",
+    "com.unity.burst": "1.8.11",
+    "com.unity.mathematics": "1.2.6"
+  }
+}
